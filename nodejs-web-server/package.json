@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "start2": "node server_lat2.js",
+    "start3": "node server_lat3.js",  
+    "start4": "node server_lat4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
